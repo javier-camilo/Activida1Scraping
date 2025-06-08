@@ -217,7 +217,7 @@ class DatabaseMonitor:
             return False
     
     def ejecutar_monitoreo(self):
-        """Método principal que ejecuta todas las verificaciones"""
+        """Método principal  que ejecuta todas las verificaciones"""
         print("*******************************************************************")
         print(f"Inicio de monitoreo: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
         print("*******************************************************************")
