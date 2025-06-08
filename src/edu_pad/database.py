@@ -31,7 +31,7 @@ class Database:
             query="SELECT * FROM {}".format(nombre_tabla)
             df=pd.read_sql_query(query, conn)
             print("*******************************************************")
-            print("Se obtuvieron los datos correctamente")
+            print("Se obtuvieron los s datos correctamente")
             print("*******************************************************")
             print("Cantidad de registros en base de datos: {}".format(df.shape))
             return df
