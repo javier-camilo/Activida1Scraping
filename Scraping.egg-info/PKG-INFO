@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: Scraping
+Version: 0.0.1
+Summary: Web scraping project for IUDigital
+Author: Daniela Coronado, Camilo Olea
+Author-email: ['daniela.coronado@est.iudigital.edu.co', 'camilo.olea@est.iudigital.edu.co']
+Requires-Dist: pandas
+Requires-Dist: openpyxl
+Requires-Dist: requests
+Requires-Dist: beautifulsoup4
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
+Dynamic: summary
